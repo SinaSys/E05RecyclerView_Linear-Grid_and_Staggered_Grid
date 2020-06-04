@@ -1,0 +1,18 @@
+<resources>
+	<string name="app_name">Recycler View</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="title">Title</string>
+	<string name="description">Description</string>
+	<string name="add_image">addImage</string>
+	<string name="delete_image">deleteImage</string>
+	<string name="thumbnail">thumbnail</string>
+
+	<string name="LinearViewHorizontal">LinearView Horizontal</string>
+	<string name="GridView">GridView</string>
+	<string name="StaggeredViewHorizontal">StaggeredViewHorizontal</string>
+	<string name="StaggeredViewVertical">StaggeredViewVertical</string>
+	<string name="LinearViewVertical">LinearView Vertical </string>
+
+</resources>
